@@ -37,7 +37,9 @@ h3 {
 pre {
   white-space: pre-wrap;
 }
-
+.nb {
+  font-weight: normal;
+}
 footer {
   margin-top: 40px;
   text-align: center;

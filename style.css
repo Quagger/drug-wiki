@@ -7,6 +7,12 @@ body {
   max-width: 800px;
   margin: 0 auto;
   word-wrap: break-word;
+  
+  .no-style {
+  color: #; /* Change to your desired color */
+  text-decoration: none; /* Removes underline */
+  }
+  
 }
 
 a {

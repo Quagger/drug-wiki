@@ -8,10 +8,25 @@ body {
   margin: 0 auto;
   word-wrap: break-word;
   
-  .no-style {
-  color: #; /* Change to your desired color */
+   .disso-style {
+  color: #787276; /* Change to your desired color */
   text-decoration: none; /* Removes underline */
   }
+
+   .stim-style {
+  color: #; /* Change to your desired color */
+  text-decoration: none; /* Removes underline */
+    }
+
+    .shroom-style {
+  color: #787276; /* Change to your desired color */
+  text-decoration: none; /* Removes underline */
+    }
+  
+    .deliri-style {
+  color: #787276; /* Change to your desired color */
+  text-decoration: none; /* Removes underline */
+    }
   
 }
 

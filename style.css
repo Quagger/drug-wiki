@@ -1,51 +1,45 @@
-/* Reset some default margins/paddings */
-body, h1, h2, h3, p, ul, li {
-  margin: 0;
-  padding: 0;
-}
 
-/* Basic page styling */
 body {
-  background-color: #121212; /* Dark background */
-  color: #e0e0e0;             /* Light text */
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
+  background-color: #000;
+  color: #fff;
+  font-family: monospace;
   padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  word-wrap: break-word;
 }
 
-/* Headings */
-h1, h2, h3 {
-  color: #ffffff; /* Bright white for headers */
-  margin-bottom: 10px;
+a {
+  color: #7fcfff;
+  text-decoration: underline;
 }
 
-/* Paragraphs */
-p {
-  margin-bottom: 15px;
-}
-
-/* Lists */
-ul {
-  list-style-type: disc;
-  padding-left: 20px;
+nav {
   margin-bottom: 20px;
 }
 
-/* Emphasized text */
-em {
-  color: #b0b0b0; /* Slightly lighter gray for emphasis */
+h1, h2, h3 {
+  font-weight: bold;
 }
 
-/* Strong (bold) text */
-strong {
-  color: #ffffff;
+h1 {
+  font-size: 26px;
 }
 
-/* Links (optional if you add links later) */
-a {
-  color: #80cbc4;
-  text-decoration: none;
+h2 {
+  font-size: 22px;
 }
-a:hover {
-  text-decoration: underline;
+
+h3 {
+  font-size: 18px;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+  color: #999;
 }

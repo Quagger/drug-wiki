@@ -15,7 +15,7 @@ body {
 
    .disso-style {
   color: #787276; /* Change to your desired color */
-  text-decoration: underline; /* Removes underline */
+  text-decoration: none; /* Removes underline */
   }
 
    .stim-style {
@@ -35,8 +35,8 @@ body {
   
 }
 
-    .anxi-style {
-  color: #0000ee;
+    .empath-style {
+  color: #ffbcd9;
   text-decoration: none;
 }
 

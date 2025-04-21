@@ -33,6 +33,11 @@ body {
   text-decoration: none; /* Removes underline */
     }
   
+      .dep-style {
+  color: #2b547e; /* Change to your desired color */
+  text-decoration: none; /* Removes underline */
+      }
+  
 }
 
     .empath-style {

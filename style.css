@@ -43,7 +43,11 @@ body {
     .empath-style {
   color: #ffbcd9;
   text-decoration: none;
-}
+      }
+    .opioid-style {
+  color: #fac797; /* Change to your desired color */
+  text-decoration: none; /* Removes underline */
+    }
 
 nav {
   margin-bottom: 20px;
